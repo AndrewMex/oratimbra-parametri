@@ -1,0 +1,27 @@
+
+{
+  "versione": "2026.1",
+  "anno": 2026,
+  "assicurazioneSanitaria": {
+    "aliquotaGenerale": 14.6,
+    "zusatzbeitragAOK": 2.99,
+    "quotaLavoratore": 8.795,
+    "massimaleMensile": 5812.50
+  },
+  "assicurazionePensione": {
+    "aliquotaTotale": 18.6,
+    "quotaLavoratore": 9.3,
+    "massimaleMensile": 8450.00
+  },
+  "assicurazioneDisoccupazione": {
+    "aliquotaTotale": 2.6,
+    "quotaLavoratore": 1.3,
+    "massimaleMensile": 8450.00
+  },
+  "assicurazioneAssistenza": {
+    "aliquotaTotaleConDueFigli": 3.35,
+    "quotaLavoratore": 1.55,
+    "quotaDatore": 1.8,
+    "numeroFigliSotto25": 2
+  }
+}
